@@ -47,11 +47,11 @@
 ### Featured Projects
 
 - **[TuttiFrutti](https://tuttifrutti.ie/)**
-  Ecommerce rebuild (in development)
+- Ecommerce rebuild (in development)
 - **[Campus Quest](https://campusquest-flax.vercel.app/)**
-  Mobile-first TUD Blanchardstown campus navigation app
+- Mobile-first TUD Blanchardstown campus navigation app
 - **[RF Motors](https://github.com/chidozieonyejelem/RFMCarRental)**
-  Full stack car rental web app
+- Full stack car rental web app
 
 ---
 
