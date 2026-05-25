@@ -36,5 +36,5 @@
 
 ### 🚀 Highlight Project
 
-Check out my full-stack project **RF Motors** – a car rental web application:
+Check out my full-stack project **RF Motors**, a car rental web application:
 [🔗 GitHub Repo](https://github.com/Doz1E/RFMCarRental)
