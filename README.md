@@ -6,8 +6,8 @@
 </p>
 
 <p>
-  <a href="https://chidozieportfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/chidozieonyejelem/">LinkedIn</a> ·
+  <a href="https://chidozieportfolio.vercel.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/chidozieonyejelem/">LinkedIn</a> |
   <a href="mailto:chidozieonyejelem1@gmail.com">Email</a>
 </p>
 
