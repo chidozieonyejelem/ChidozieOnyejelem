@@ -52,7 +52,3 @@
   Mobile-first TUD Blanchardstown campus navigation app
 - **[RF Motors](https://github.com/chidozieonyejelem/RFMCarRental)**  
   Full stack car rental web app
-
----
-
-<sub>More on my <a href="https://chidozieportfolio.vercel.app/">portfolio →</a></sub>
